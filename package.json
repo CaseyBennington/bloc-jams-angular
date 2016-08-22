@@ -1,16 +1,16 @@
 {
-  "name": "bloc-frontend-project-starter",
+  "name": "bloc-jams-angular",
   "version": "0.0.2",
-  "description": "Starter project for the Bloc Frontend Web Development",
+  "description": "First Angular Project for the Bloc Frontend Web Development",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bloc/bloc-frontend-project-starter"
+    "url": "https://github.com/caseybennington/bloc-jams-angular"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Bloc Inc",
+  "author": "Casey Bennington",
   "license": "ISC",
   "dependencies": {
     "hapi": "~7.5.0",
