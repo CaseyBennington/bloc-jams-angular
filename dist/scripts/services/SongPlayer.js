@@ -60,7 +60,7 @@
     * @desc Stops the currently playing song
     * @param {Object} song
     */
-    var stopSong = function(song) {
+    var stopSong = function() {
       currentBuzzObject.stop();
       SongPlayer.currentSong.playing = null;
     };
