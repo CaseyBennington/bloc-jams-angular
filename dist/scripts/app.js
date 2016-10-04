@@ -25,6 +25,6 @@
   }
 
   angular
-      .module('blocJams', ['ui.router'])
+      .module('Jammies', ['ui.router'])
       .config(config);
 })();

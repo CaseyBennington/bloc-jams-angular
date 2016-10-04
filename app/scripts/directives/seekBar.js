@@ -77,6 +77,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .directive('seekBar', ['$document', seekBar]);
 })();

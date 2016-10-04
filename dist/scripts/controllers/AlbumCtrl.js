@@ -6,6 +6,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .controller('AlbumCtrl', ['Fixtures', 'SongPlayer', AlbumCtrl]);
 })();

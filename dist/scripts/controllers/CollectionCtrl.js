@@ -5,6 +5,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .controller('CollectionCtrl', ['Fixtures', CollectionCtrl]);
 })();

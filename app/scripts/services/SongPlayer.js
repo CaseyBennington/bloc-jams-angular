@@ -179,6 +179,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .factory('SongPlayer', ['$rootScope', 'Fixtures', SongPlayer]);
 })();

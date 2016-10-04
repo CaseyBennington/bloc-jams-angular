@@ -9,6 +9,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .filter('timecode', timecode);
 })();

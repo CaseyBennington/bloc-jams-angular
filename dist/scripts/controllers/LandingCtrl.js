@@ -4,6 +4,6 @@
   }
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .controller('LandingCtrl', LandingCtrl);
 })();

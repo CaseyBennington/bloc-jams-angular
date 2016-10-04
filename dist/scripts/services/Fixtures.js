@@ -51,6 +51,6 @@
 
 
   angular
-      .module('blocJams')
+      .module('Jammies')
       .factory('Fixtures', Fixtures);
 })();
